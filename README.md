@@ -87,7 +87,7 @@ The frontend application will automatically open in your default browser at `htt
 
 ## 📸 Screenshots
 
-
+![login page](https://github.com/abhinavkasana1/intern-portal/blob/main/Screenshot1.png?raw=true)
 
 ## 🧑‍💻 Author
 
